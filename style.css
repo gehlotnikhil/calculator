@@ -1,0 +1,38 @@
+
+h1{
+    text-align: center;
+}
+#container {
+    background-color: #000000;
+    color: white;
+    width: 25%;
+    border: 1px solid black;
+    margin: auto;
+    height: 326px;
+}
+
+input#inputN {
+    width: 100%;
+    border: 2px solid black;
+    height: 20%;
+}
+.item {
+    height: 40px;
+    margin: 0px;
+    background: #4c443a;
+    margin-top: 11px;
+    color: white;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 0px;
+    width: 74.8px;
+}
+*{
+    box-sizing: border-box;
+}
+button#item17 {
+    width: 153.6px;
+}
+button:hover {
+    background-color: #876c6c;
+}
